@@ -1,3 +1,7 @@
+## About
+this is forked form geth. the purpose is to add my personal comments of codes in understanding geth.
+forked commit is 4a9fa31450d3cdcea84735b68cd5a0a8450473f8
+
 ## Go Ethereum
 
 Official Golang execution layer implementation of the Ethereum protocol.
